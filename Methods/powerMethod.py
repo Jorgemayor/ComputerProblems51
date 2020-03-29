@@ -1,5 +1,5 @@
 import numpy as np
 
-def apply():
+def apply(matrix, vector, steps):
 	print("It's here")
 
