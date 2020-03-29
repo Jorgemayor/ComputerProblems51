@@ -8,7 +8,7 @@ def solve():
 			  [2, 5, -1]]
 	vector = [1, 2, 3]
 	steps = 100
-	pm.apply(matrix, vector, steps)
+	print("\nLargest eigenvalue:",pm.apply(matrix, vector, steps))
 
 if __name__ == "__main__":
     solve()
