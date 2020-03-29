@@ -1,4 +1,4 @@
-from Problems import inversePowerMethod as ipm
+from Methods import inversePowerMethod as ipm
 
 def solve():
 	ipm.apply()

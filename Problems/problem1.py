@@ -1,4 +1,4 @@
-from Problems import powerMethod as pm
+from Methods import powerMethod as pm
 
 def solve():
 	pm.apply()
