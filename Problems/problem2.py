@@ -1,4 +1,4 @@
-import numpy as np
+from Problems import powerMethod as pm
 
 def solve():
-	print("It's here.")
+	pm.apply()

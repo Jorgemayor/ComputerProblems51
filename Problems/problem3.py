@@ -1,4 +1,4 @@
-import numpy as np
+from Problems import inversePowerMethod as ipm
 
 def solve():
-	print("It's here.")
+	ipm.apply()
