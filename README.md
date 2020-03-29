@@ -1,4 +1,4 @@
-# ComputerProblems51
+# Computer Problems 5.1
 
 Este módulo es desarrollado completamente con el fin de resolver los problemas de computación propuestos en el taller de la asignatura Análisis y Métodos Numéricos.
 
