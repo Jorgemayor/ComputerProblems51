@@ -10,4 +10,4 @@ def apply(matrixArr, vector, steps):
 		y = matrix.dot(x)
 		r = np.amax(y)/np.amax(x)
 		x = y/np.amax(y)
-		print("\nStep",i,"\n  vector:",x,"\n  Eigenvalue:",r)
+		print("\nStep",i,"\n  Vector:",x,"\n  Eigenvalue:",r)
