@@ -11,7 +11,7 @@ Este taller se conforma por los puntos 1, 4.a y 5.a, de la sección Computre Pro
 
 ## Instalar el módulo
 
-Asegurarse de tener instalado git, python 3.7 y numpy en su sistema.
+Asegurarse de tener instalado python 3.7 y numpy en su sistema.
 
 ```bash
 # Se clona el repositorio
