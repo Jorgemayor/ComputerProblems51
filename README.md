@@ -13,14 +13,22 @@ Este taller se conforma por los puntos 1, 4.a y 5.a, de la sección Computer Pro
 
 La distribución de archivos viene dada por:
 
-* main.py: Archivo principal
-* Methods: Acá están implementados todos los métodos usados
+* main.py: Archivo principal.
+* Methods: Acá están implementados todos los métodos usados.
 	- powerMethod.py
 	- inversePowerMethod.py
-* Problems: Acá se encuentran los problemas que se solucionaron
+* Problems: Acá se encuentran los problemas que se solucionaron.
 	- problem1.py
 	- problem4a.py
 	- problem5a.py
+* Examples: Acá se proveen capturas de pantalla, mostrando la ejecución de cada problema, desde el archivo *main.py* e individualmente.
+	- executionProblem1-1.png
+	- executionProblem1-2.png
+	- executionProblem4a-1.png
+	- executionProblem4a-2.png
+	- executionProblem5a-1.png
+	- executionProblem5a-2.png
+	- mainExecution.png
 
 ## Instalar el módulo
 
