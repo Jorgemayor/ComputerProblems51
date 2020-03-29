@@ -9,7 +9,7 @@ def apply(matrixArr, vector, steps):
 	r=None
 	for i in range(1, steps+1):
 		y = matrix.dot(x)
-		r = np.amax(y)/np.amax(x)
+		r = np.amax(np.abs(y))/np.amax(np.abs(x))
 		x = y/np.amax(y)
 		print("\nStep",i,"\n  Vector:",x,"\n  Eigenvalue:",r)
 	return r
