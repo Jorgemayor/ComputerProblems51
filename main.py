@@ -1,6 +1,6 @@
 from Problems import problem1 as p1
-from Problems import problem2 as p2
-from Problems import problem3 as p3
+from Problems import problem4a as p2
+from Problems import problem5a as p3
 import sys
 
 def main():
