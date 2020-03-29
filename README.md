@@ -2,7 +2,7 @@
 
 Este módulo es desarrollado completamente con el fin de resolver los problemas de computación propuestos en el taller de la asignatura Análisis y Métodos Numéricos.
 
-Este taller se conforma por los puntos 1, 4.a y 5.a, de la sección Computre Problems, del capítulo 5.1 del libro Numerical Analysis, escrito por David R. Kincaid y E. Ward Cheney.
+Este taller se conforma por los puntos 1, 4.a y 5.a, de la sección Computer Problems, del capítulo 5.1 del libro Numerical Analysis, escrito por David R. Kincaid y E. Ward Cheney.
 
 ## Tecnologías usadas para el desarrollo
 
