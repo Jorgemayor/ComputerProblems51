@@ -1,3 +1,5 @@
+import sys
+sys.path.append('../')
 from Methods import powerMethod as pm
 
 def solve():
